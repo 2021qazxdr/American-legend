@@ -21,6 +21,15 @@
     <div id="usgods">
         <h2>《美国众神》相关</h2>
         <input type="text" value="请输入关键词，为您检索符合要求的神话传说">
+        <ul>
+            <li>北欧神话</li>
+            <li>印度神话</li>
+            <li>希腊神话</li>
+            <li>罗马神话</li>
+            <li>爱尔兰传说</li>
+            <li>阿兹特克神话</li>
+            <li>阿拉伯神话</li>
+        </ul>
     </div>
 
     <div id="norsegods">
